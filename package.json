@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-template",
   "version": "1.0.0",
-  "description": "A minimal boiler-plate for starting React.js projects with Typescript",
+  "description": "A minimal starter for building React.js projects with Typescript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve",
