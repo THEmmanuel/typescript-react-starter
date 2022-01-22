@@ -1,0 +1,21 @@
+{
+  "name": "react-typescript-template",
+  "version": "1.0.0",
+  "description": "A minimal boiler-plate for starting React.js projects with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boilerplate",
+    "react",
+    "javascript",
+    "template",
+    "typescript",
+    "css",
+    "modules",
+    "es6"
+  ],
+  "author": "Emmanuel Ayodele Bello",
+  "license": "ISC"
+}
