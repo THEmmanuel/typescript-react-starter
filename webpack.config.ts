@@ -73,4 +73,8 @@ module.exports = {
             template: path.join(__dirname, "public", "index.html"),
         }),
     ],
+    devServer: {
+        compress: true,
+        port: 9000,
+    }
 }
