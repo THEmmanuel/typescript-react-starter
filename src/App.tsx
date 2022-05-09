@@ -3,7 +3,7 @@ import React from 'react';
 const App = () => {
     return (
         <div>
-            <span>React typescript template</span>
+            <span>Edit this to see changes</span>
         </div>
     )
 };
