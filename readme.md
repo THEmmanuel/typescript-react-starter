@@ -21,6 +21,6 @@
     └── webpack.config.ts
 
 ### Installation:
-- Start development server: `npm run dev`
+- Start development server: `npm run dev` or `yarn dev`
 >Runs at port `9000`
-- Generate deploy bundle: `npm run build`
+- Generate deploy bundle: `npm run build` or `yarn build`
